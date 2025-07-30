@@ -13,7 +13,11 @@ features-
 # TYPES OF IP-ADDRESS
 hello! it is a beginner level of project that designed to check the IP address is *public* or *private* that is given in the *csv* file using some basic modules of python
 features -
-     How to call *csv* file to the python file.
+     How to call *csv* file to the python file(can be learn).
      Checking of IP address is it valid or not.
      Beginner designed .
      Help to improve python by practicing the code
+# CONDITION_OF_YOUR_INTERNET
+hello! it is a begineer level of project that automatically can check that your internetwork is **on** or **off** at a ```certain time```.
+features- 
+    check your internet is **on* or **off* in a certain time(pc time)
